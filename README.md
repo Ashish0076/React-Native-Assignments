@@ -8,3 +8,4 @@ Welcome to the React Native Assignments repository! This repository contains a c
 4. **Assignment 4 =>** [https://snack.expo.dev/@ashish0076/assignment-4]
 5. **Assignment 5 =>** [https://snack.expo.dev/@ashish0076/assignment-5]
 6. **Assignment 6 =>** [https://snack.expo.dev/@ashish0076/assignment-6]
+7. **Assignment 7 =>** [https://snack.expo.dev/@ashish0076/assignment-7]
